@@ -3,7 +3,7 @@ h5{
     color: #4285F4;
     text-shadow: #dcc7dc;
    font-family: 'Varela Round', sans-serif;
-    font-size: x-large;
+    font-size: large;
     margin: 2px;
     text-align: center;
   }
@@ -11,7 +11,7 @@ h5{
     color: #2cbc22;
     text-shadow: #dcc7dc;
     font-family: 'Acme', sans-serif;
-    font-size: x-large;
+    font-size: large;
    padding: 4%;
  
  }
